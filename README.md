@@ -2,31 +2,19 @@
 
 ### Student Developer | Aspiring Software Developer
 
-I'm a **B.E. Computer Engineering student** currently in my **5th semester**, passionate about building modern software and exploring creative technology.
-
-I enjoy building **modern web applications, interactive experiences, practical software solutions, and 3D/graphics experiences using Blender**.
+**B.E. Computer Engineering student, 5th semester**, building modern web applications, interactive software, and 3D/graphics experiences with Blender.
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 🧑‍💻 About Me
 
-I'm a student developer focused on learning and building across the **frontend, backend, and 3D development** space.
-
-I enjoy turning ideas into functional applications and experimenting with technologies that combine software development with interactive and visual experiences.
-
-My current goal is to grow into a **Software Developer** with strong full-stack development skills while continuing to explore **3D graphics and immersive web experiences**.
+I build across **frontend, backend, and 3D development**, turning ideas into functional applications. My goal is to grow as a **full-stack Software Developer** while exploring 3D graphics and immersive web experiences.
 
 ---
 
 ## 📚 Currently Learning
 
-* Node.js
-* Express.js
-* PostgreSQL
-* Backend Development
-* REST APIs
-* Full-Stack Web Development
-* 3D Web Experiences
+Node.js · Express.js · PostgreSQL · Backend Development · REST APIs · Full-Stack Web Development · 3D Web Experiences
 
 ---
 
@@ -85,20 +73,9 @@ My current goal is to grow into a **Software Developer** with strong full-stack 
 
 ### 🌌 DreamArchive
 
-**DreamArchive** is a surreal, interactive 3D web experience built with **React 19, Three.js, and React Three Fiber (R3F)**.
+Surreal, interactive 3D web experience built with **React 19, Three.js, and React Three Fiber (R3F)**. Users navigate an atmospheric virtual archive toward a floating crystal monument.
 
-The project creates an atmospheric virtual archive where users navigate through an immersive sanctuary toward a floating central crystal monument.
-
-**Highlights:**
-
-* Automated first-person camera movement
-* Procedural camera head bobbing
-* Cursor-driven parallax mouse look
-* Dynamic GLTF model streaming
-* Post-processing bloom effects
-* Reactive particle systems
-* State-driven scene transitions
-* Immersive 3D web storytelling
+**Highlights:** Automated first-person camera · Procedural head bobbing · Cursor-driven parallax · Dynamic GLTF streaming · Bloom post-processing · Reactive particles · State-driven transitions · Immersive 3D storytelling
 
 **Tech:** React 19 · Three.js · React Three Fiber · TypeScript · GLTF · Blender
 
@@ -110,17 +87,9 @@ The project creates an atmospheric virtual archive where users navigate through 
 
 ### 🍽️ Zestra
 
-**Zestra** is an intelligent, real-time digital dining and restaurant management platform designed to streamline restaurant operations.
+Intelligent, real-time digital dining and restaurant management platform.
 
-**Highlights:**
-
-* QR-based digital menus
-* Instant order processing
-* Inventory tracking
-* Table reservations
-* Razorpay payment integration
-* Live WebSocket updates
-* AI-driven operational insights
+**Highlights:** QR menus · Instant orders · Inventory tracking · Table reservations · Razorpay payments · Live WebSocket updates · AI-driven operational insights
 
 **Tech:** React · JavaScript · Tailwind CSS · Python · Backend APIs · PostgreSQL · WebSockets
 
@@ -132,16 +101,14 @@ The project creates an atmospheric virtual archive where users navigate through 
 
 ## 🎓 Education
 
-**B.E. — Computer Engineering**
-
-Currently pursuing my **5th semester**.
+**B.E. — Computer Engineering**, currently pursuing my **5th semester**.
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krehantGajjar10&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=krehantGajjar10&hide_border=true&background=0D1117&stroke=30363D&ring=F97316&fire=F97316&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E" />
 </p>
 
 ---
