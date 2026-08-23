@@ -102,7 +102,9 @@ The project creates an atmospheric virtual archive where users navigate through 
 
 **Tech:** React 19 · Three.js · React Three Fiber · TypeScript · GLTF · Blender
 
-🔗 **Repository:** `Add your link here`
+🔗 **Repository:** [DreamArchive](https://github.com/Aniketbhil/DreamArchive)
+
+🌐 **Live Demo:** [dream-archive-lemon.vercel.app](https://dream-archive-lemon.vercel.app/)
 
 ---
 
@@ -122,7 +124,9 @@ The project creates an atmospheric virtual archive where users navigate through 
 
 **Tech:** React · JavaScript · Tailwind CSS · Python · Backend APIs · PostgreSQL · WebSockets
 
-🔗 **Repository:** `Add your link here`
+🔗 **Repository:** [Zestra](https://github.com/Aniketbhil/Zestra)
+
+🌐 **Live Demo:** [zestra-lac.vercel.app](https://zestra-lac.vercel.app/)
 
 ---
 
@@ -131,15 +135,6 @@ The project creates an atmospheric virtual archive where users navigate through 
 **B.E. — Computer Engineering**
 
 Currently pursuing my **5th semester**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krehantGajjar10&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krehantGajjar10&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
